@@ -10,7 +10,7 @@ const styles = {
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
-    // backgroundColor: '#eee8d1',
+    height: '100vh',
     pt: '20px',
   },
 };
