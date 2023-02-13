@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codibly-ts/static/css/main.1c682224.chunk.css",
-    "main.js": "/codibly-ts/static/js/main.c82ee249.chunk.js",
-    "main.js.map": "/codibly-ts/static/js/main.c82ee249.chunk.js.map",
+    "main.js": "/codibly-ts/static/js/main.3ef3e9d2.chunk.js",
+    "main.js.map": "/codibly-ts/static/js/main.3ef3e9d2.chunk.js.map",
     "runtime-main.js": "/codibly-ts/static/js/runtime-main.4213144b.js",
     "runtime-main.js.map": "/codibly-ts/static/js/runtime-main.4213144b.js.map",
     "static/js/2.094d05ab.chunk.js": "/codibly-ts/static/js/2.094d05ab.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.4213144b.js",
     "static/js/2.094d05ab.chunk.js",
     "static/css/main.1c682224.chunk.css",
-    "static/js/main.c82ee249.chunk.js"
+    "static/js/main.3ef3e9d2.chunk.js"
   ]
 }
